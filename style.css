@@ -7,7 +7,8 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background: #c2c0c0;          /* improvement req */
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(101,205,127,1) 48%, rgba(255,185,33,1) 100%);
     display: flex;
     align-items: center;
     justify-content: center;
